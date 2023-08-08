@@ -1,0 +1,123 @@
+.resume1 {
+    height: 80px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+  }
+  
+.image > img {
+    height: 300px;
+    width: 350px;
+    margin-top: 5px;
+    border-radius: 52%;
+}
+
+#about_part {
+    font-size: 2.5em;
+    text-align: center;
+
+}
+
+.resume {
+    font-size: 3em;
+}
+  
+.res {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 100px;
+    gap: 75px;
+}
+
+.education {
+    background-color: sandybrown;
+    width: 500px;
+    border-radius: 3%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.hobbies {
+    background-color: sandybrown;
+    width: 500px;
+    border-radius: 3%;
+    text-align: center;
+    font-size: 20px;
+}
+
+li {
+     list-style-type:none;
+}
+
+#skill {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.ski_img {
+    height: 150px;
+    width: 150px;
+}
+
+.js > img {
+    height: 150px;
+    width: 250px;
+}
+
+.react > img {
+    height: 150px;
+    width: 250px;
+}
+
+.html {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.css {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.js {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.react {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.python {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
+.skills {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:azure;
+    padding-top: 50px;
+}
+
+.contact {
+    background-color: sandybrown;
+    width: 500px;
+    border-radius: 3%;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 35%;
+    padding: 7px;
+    margin-top: 5%;
+}
+

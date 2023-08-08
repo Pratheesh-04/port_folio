@@ -1,0 +1,43 @@
+
+html {
+  background-color: antiquewhite;
+}
+
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 50px;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 235px;
+}
+
+.grid-items {
+  background-color: rgb(107, 141, 237) ;
+  text-align: center;
+  border: solid 5px black;
+  font-size: 50px;
+  padding: 20px;
+}
+
+.flex-container {
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  margin-left: 235px;
+}
+
+.flex-items {
+  flex-basis: 495px;
+  background-color: rgb(107, 141, 237) ;
+  text-align: center;
+  border: solid 5px black;
+  font-size: 50px;
+  padding: 20px;
+}
+
