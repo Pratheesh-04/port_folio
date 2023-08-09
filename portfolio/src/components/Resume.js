@@ -77,23 +77,10 @@ const Resume=()=>{
                         <img src={py} alt='logo' className='ski_img'></img>
                         <b><i><p className='description'>PYTHON</p></i></b>
                     </div>
-                </div>
-
-                <div className='contact'>
-                    <u><i><h3>Contact me:</h3></i></u>
-
-                    <ul>
-                        <li><a href="https://www.linkedin.com/in/pratheeshwaran-s-628ab0242" target="_blank">Linkedin</a></li>
-                        <li><a href="https://www.instagram.com/pratheeshwaran2004/" target="_blank">Instagram</a></li>
-                        <li><a href="https://github.com/Pratheesh-04" target="_blank">Github</a></li>
-                    </ul>
-                </div>
-                
-                    
+                </div>                    
                 
             </div>
 
-            
         </div>
         
     )

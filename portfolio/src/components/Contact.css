@@ -1,0 +1,69 @@
+.contact {
+    font-size: 3em;
+}
+
+.details {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+    height: auto;
+    width: 700px;
+    margin-left: 27%;
+}
+
+.linkedin {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.linkedin > img {
+    max-width: 40px;
+}
+
+.instagram {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.instagram > img {
+    max-width: 40px;
+}
+
+.github {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.github > img {
+    max-width: 40px;
+}
+
+.g-mail {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.g-mail > img {
+    max-width: 40px;
+}
+
+.no {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.no > img {
+    max-width: 40px;
+}
